@@ -1,5 +1,6 @@
 
-Arrays is a Data Structure that is used to store data that is of similar data type.<br><br>
+<h3>Arrays</h3>
+It is a Data Structure that is used to store data that is of similar data type.<br><br>
 There are different types of arrays that are present to store different type of data.<br><br>
 Types of Arrays are as follows:
 <ul>
