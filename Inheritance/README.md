@@ -11,3 +11,9 @@ It is the procedure by which one object acquires all the properties and behavior
 <ul>
   <li>By using inheritance two classes get tightly coupled.</li>
 </ul>
+
+<h3>Important points to keep in mind</h3>
+<ul>
+  <li>It is achieved using the 'extends' keyword.</li>
+  <li>Every class has a super or parent class i.e., object class.</li>
+</ul>
