@@ -13,7 +13,7 @@ public class Main {
 class Company {
     public static void main(String[] args) {
         Main m = new Main();
-        m.setEmp_id(101);
+        m.setEmp_id(1);
         System.out.println(m.getEmp_id());
     }
 }
