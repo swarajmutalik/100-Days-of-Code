@@ -13,3 +13,5 @@
 String Constant Pool is a place in heap memory where all the strings defined in the program are stored. 
 
 One thing that is to be kept in mind is that the objects present in string constant pool are not applicable for Garbage collection because a reference variable internally is maintained by the JVM.
+
+<h3>Why Strings are Immutable ?</h3>
