@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/100-Days-of-Code.iml" filepath="$PROJECT_DIR$/.idea/100-Days-of-Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Armstrong_Number/Armstrong_Number.iml" filepath="$PROJECT_DIR$/Armstrong_Number/Armstrong_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bubble Sort/Bubble Sort.iml" filepath="$PROJECT_DIR$/Bubble Sort/Bubble Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Checked and Unchecked Exceptions/Checked and Unchecked Exceptions.iml" filepath="$PROJECT_DIR$/Checked and Unchecked Exceptions/Checked and Unchecked Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common elements in two arrays/Common elements in two arrays.iml" filepath="$PROJECT_DIR$/Common elements in two arrays/Common elements in two arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Even_or_Odd/Even_or_Odd.iml" filepath="$PROJECT_DIR$/Even_or_Odd/Even_or_Odd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonacci_Series/Fibonacci_Series.iml" filepath="$PROJECT_DIR$/Fibonacci_Series/Fibonacci_Series.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Finally Block/Finally Block.iml" filepath="$PROJECT_DIR$/Finally Block/Finally Block.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Finding Max and MIn Value in an Array/Finding Max and MIn Value in an Array.iml" filepath="$PROJECT_DIR$/Finding Max and MIn Value in an Array/Finding Max and MIn Value in an Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greatest_of_Three_Numbers/Greatest_of_Three_Numbers.iml" filepath="$PROJECT_DIR$/Greatest_of_Three_Numbers/Greatest_of_Three_Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello_World/Hello_World.iml" filepath="$PROJECT_DIR$/Hello_World/Hello_World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Insert an element in an array/Insert an element in an array.iml" filepath="$PROJECT_DIR$/Insert an element in an array/Insert an element in an array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Insertion Sort/Insertion Sort.iml" filepath="$PROJECT_DIR$/Insertion Sort/Insertion Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction to Abstraction/Introduction to Abstraction.iml" filepath="$PROJECT_DIR$/Introduction to Abstraction/Introduction to Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction to Encapsulation/Introduction to Encapsulation.iml" filepath="$PROJECT_DIR$/Introduction to Encapsulation/Introduction to Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction to Interface/Introduction to Interface.iml" filepath="$PROJECT_DIR$/Introduction to Interface/Introduction to Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction to OOPS/Introduction to OOPS.iml" filepath="$PROJECT_DIR$/Introduction to OOPS/Introduction to OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction to super keyword/Introduction to super keyword.iml" filepath="$PROJECT_DIR$/Introduction to super keyword/Introduction to super keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction to this keyword/Introduction to this keyword.iml" filepath="$PROJECT_DIR$/Introduction to this keyword/Introduction to this keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear_or_not/LeapYear_or_not.iml" filepath="$PROJECT_DIR$/LeapYear_or_not/LeapYear_or_not.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear Search/Linear Search.iml" filepath="$PROJECT_DIR$/Linear Search/Linear Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merge Sort/Merge Sort.iml" filepath="$PROJECT_DIR$/Merge Sort/Merge Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merge two arrays/Merge two arrays.iml" filepath="$PROJECT_DIR$/Merge two arrays/Merge two arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method Overloading/Method Overloading.iml" filepath="$PROJECT_DIR$/Method Overloading/Method Overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method Overriding/Method Overriding.iml" filepath="$PROJECT_DIR$/Method Overriding/Method Overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Missing Number in an Array/Missing Number in an Array.iml" filepath="$PROJECT_DIR$/Missing Number in an Array/Missing Number in an Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multiplication_Table/Multiplication_Table.iml" filepath="$PROJECT_DIR$/Multiplication_Table/Multiplication_Table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number of Odd and Even Numbers/Number of Odd and Even Numbers.iml" filepath="$PROJECT_DIR$/Number of Odd and Even Numbers/Number of Odd and Even Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrome_Number/Palindrome_Number.iml" filepath="$PROJECT_DIR$/Palindrome_Number/Palindrome_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prime_or_Not/Prime_or_Not.iml" filepath="$PROJECT_DIR$/Prime_or_Not/Prime_or_Not.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse_a_Number/Reverse_a_Number.iml" filepath="$PROJECT_DIR$/Reverse_a_Number/Reverse_a_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse_a_String/Reverse_a_String.iml" filepath="$PROJECT_DIR$/Reverse_a_String/Reverse_a_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selection Sort/Selection Sort.iml" filepath="$PROJECT_DIR$/Selection Sort/Selection Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Star_Pattern 1/Star_Pattern 1.iml" filepath="$PROJECT_DIR$/Star_Pattern 1/Star_Pattern 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Star_Pattern 2/Star_Pattern 2.iml" filepath="$PROJECT_DIR$/Star_Pattern 2/Star_Pattern 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Star_Pattern 3/Star_Pattern 3.iml" filepath="$PROJECT_DIR$/Star_Pattern 3/Star_Pattern 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Star_Pattern 4/Star_Pattern 4.iml" filepath="$PROJECT_DIR$/Star_Pattern 4/Star_Pattern 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Star_Pattern 5/Star_Pattern 5.iml" filepath="$PROJECT_DIR$/Star_Pattern 5/Star_Pattern 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Star_Pattern 6/Star_Pattern 6.iml" filepath="$PROJECT_DIR$/Star_Pattern 6/Star_Pattern 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Star_Pattern 7/Star_Pattern 7.iml" filepath="$PROJECT_DIR$/Star_Pattern 7/Star_Pattern 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Star_Pattern 8/Star_Pattern 8.iml" filepath="$PROJECT_DIR$/Star_Pattern 8/Star_Pattern 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static Block/Static Block.iml" filepath="$PROJECT_DIR$/Static Block/Static Block.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static Methods/Static Methods.iml" filepath="$PROJECT_DIR$/Static Methods/Static Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static Variables/Static Variables.iml" filepath="$PROJECT_DIR$/Static Variables/Static Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swapping/Swapping.iml" filepath="$PROJECT_DIR$/Swapping/Swapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Types of Inheritance/Types of Inheritance.iml" filepath="$PROJECT_DIR$/Types of Inheritance/Types of Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User_Input/User_Input.iml" filepath="$PROJECT_DIR$/User_Input/User_Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delete an element from an array/delete an element from an array.iml" filepath="$PROJECT_DIR$/delete an element from an array/delete an element from an array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final finally and finalize/final finally and finalize.iml" filepath="$PROJECT_DIR$/final finally and finalize/final finally and finalize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final keyword/final keyword.iml" filepath="$PROJECT_DIR$/final keyword/final keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/throw keyword/throw keyword.iml" filepath="$PROJECT_DIR$/throw keyword/throw keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/throws keyword/throws keyword.iml" filepath="$PROJECT_DIR$/throws keyword/throws keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try catch/try catch.iml" filepath="$PROJECT_DIR$/try catch/try catch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try catch combinations/try catch combinations.iml" filepath="$PROJECT_DIR$/try catch combinations/try catch combinations.iml" />
+    </modules>
+  </component>
+</project>

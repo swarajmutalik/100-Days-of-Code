@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92d7ea25-77ea-4e4c-b1bf-7528d9bc1a5d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Armstrong_Number/Armstrong_Number.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Search/Binary Search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bubble Sort/Bubble Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Checked and Unchecked Exceptions/Checked and Unchecked Exceptions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common elements in two arrays/Common elements in two arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Even_or_Odd/Even_or_Odd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorial/Factorial.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci_Series/Fibonacci_Series.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finally Block/Finally Block.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finding Max and MIn Value in an Array/Finding Max and MIn Value in an Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greatest_of_Three_Numbers/Greatest_of_Three_Numbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello_World/Hello_World.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Insert an element in an array/Insert an element in an array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Insertion Sort/Insertion Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Abstraction/Introduction to Abstraction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Encapsulation/Introduction to Encapsulation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Interface/Introduction to Interface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to OOPS/Introduction to OOPS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to super keyword/Introduction to super keyword.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to this keyword/Introduction to this keyword.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeapYear_or_not/LeapYear_or_not.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Search/Linear Search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Merge Sort/Merge Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Merge two arrays/Merge two arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Method Overloading/Method Overloading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Method Overriding/Method Overriding.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Missing Number in an Array/Missing Number in an Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multiplication_Table/Multiplication_Table.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Number of Odd and Even Numbers/Number of Odd and Even Numbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome_Number/Palindrome_Number.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime_or_Not/Prime_or_Not.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse_a_Number/Reverse_a_Number.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reverse_a_String/Reverse_a_String.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selection Sort/Selection Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Star_Pattern 1/Star_Pattern 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Star_Pattern 2/Star_Pattern 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Star_Pattern 3/Star_Pattern 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Star_Pattern 4/Star_Pattern 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Star_Pattern 5/Star_Pattern 5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Star_Pattern 6/Star_Pattern 6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Star_Pattern 7/Star_Pattern 7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Star_Pattern 8/Star_Pattern 8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static Block/Static Block.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static Methods/Static Methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static Variables/Static Variables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Strings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swapping/Swapping.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Types of Inheritance/Types of Inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User_Input/User_Input.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delete an element from an array/delete an element from an array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final finally and finalize/final finally and finalize.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final keyword/final keyword.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/throw keyword/throw keyword.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/throws keyword/throws keyword.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/try catch combinations/try catch combinations.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/try catch/try catch.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2e6DLXEHaYAFcPXF47Kxm6b5WSF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92d7ea25-77ea-4e4c-b1bf-7528d9bc1a5d" name="Changes" comment="" />
+      <created>1711216084522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711216084522</updated>
+    </task>
+    <servers />
+  </component>
+</project>
