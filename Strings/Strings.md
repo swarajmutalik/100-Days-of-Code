@@ -26,3 +26,12 @@ Strings are immutable, meaning once created, their values cannot be changed.
 
 - Simplicity: Immutable objects simplify programming by eliminating the need to manage changes to string values manually. This can lead to clearer and more maintainable code
 
+### Why to use char[] array over a string for storing passwords ? 
+
+1. Strings are immutable - Strings are immutable in Java and therefore if a password is stored as plain text it will be available in memory until Garbage collector clears it and as Strings are used in the String pool for re-usability there are high chances that it will remain in memory for long duration, which is a security threat. Strings are immutable and there is no way that the content of Strings can be changed because any change will produce new String.
+   Within an array, the data can be wiped explicitly after its work is completed. The array can be overwritten and the password won’t be present anywhere in the system, even before garbage collection.
+
+2. Security - Any one who has access to memory dump can find the password in clear text and that’s another reason to use encrypted password than plain text.  So Storing password in character array clearly mitigates security risk of stealing password.
+
+3. Log file safety - With an array, one can explicitly wipe the data , overwrite the array and the password won’t be present anywhere in the system.
+   With plain String, there are much higher chances of accidentally printing the password to logs, monitors or some other insecure place. char[] is less vulnerable.
