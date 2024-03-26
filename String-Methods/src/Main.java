@@ -5,14 +5,17 @@ public class Main {
         String s3 = new String("Hello");
         String s4 = "";
         String s5 = "  abc   ";
+        String s6 = "hello";
+        String s7 = "a";
+        String s8 = "A";
 
 //      == operator
-//        System.out.println(s1 == s2);
-//        System.out.println(s1 == s3);
+        System.out.println(s1 == s2);
+        System.out.println(s1 == s3);
 //
 ////      .equals() method
-//        System.out.println(s1.equals(s2));
-//        System.out.println(s1.equals(s3));
+        System.out.println(s1.equals(s2));
+        System.out.println(s1.equals(s3));
 
 //       .length() method
         System.out.println(s1.length());
@@ -32,5 +35,11 @@ public class Main {
         System.out.println(s5);
         System.out.println(s5.trim());
 
-     }
+
+//        .equalsIgnoreCase() method
+        System.out.println(s1.equalsIgnoreCase(s6));
+
+//        .compareTo() method
+        System.out.println(s7.compareTo(s8));
+      }
 }
