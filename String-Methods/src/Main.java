@@ -8,6 +8,7 @@ public class Main {
         String s6 = "hello";
         String s7 = "a";
         String s8 = "A";
+        String s9 = "this is a demo string";
 
 //      == operator
         System.out.println(s1 == s2);
@@ -41,5 +42,18 @@ public class Main {
 
 //        .compareTo() method
         System.out.println(s7.compareTo(s8));
+
+//        .concat() method
+        System.out.println(s1.concat(s8));
+
+//        .join() method
+        System.out.println(String.join(",",s1,s8));
+
+//        .subSequence() method
+        System.out.println(s9.subSequence(4,9));
+
+//        .subString() method
+        System.out.println(s9.substring(3));
+        System.out.println(s9.substring(3,12));
       }
 }

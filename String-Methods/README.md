@@ -25,3 +25,20 @@ It is a method that is used to compare specified string to another string,ignori
 #### .compareTo() method 
 
 It is a method that is used to compare two strings lexicographically i.e., each character of the string is converted into a unicode value for comparison. If both the strings are equal then this method returns 0 else it returns a positive or a negative value.
+
+#### .concat() method
+
+It is a method that concatenates one string to the end of another string. This method returns a string with the value of the string passed into the method, appended to the end of the string.
+
+#### .join() method 
+
+It is a static method which concatenates the given elements with the delimiter and returns the concatenated string.
+
+#### .subSequence() method 
+
+It is a method that returns a CharSequence, it starts with the char value at the specified index and ends with the char value at (end - 1).
+
+#### .subString() method 
+
+It returns a new string that is a substring of this string. The substring begins at the specified beginIndex and extends to the character at the endIndex - 1.
+
