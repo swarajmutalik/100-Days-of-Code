@@ -42,3 +42,14 @@ It is a method that returns a CharSequence, it starts with the char value at the
 
 It returns a new string that is a substring of this string. The substring begins at the specified beginIndex and extends to the character at the endIndex - 1.
 
+#### .replace() method 
+
+It is a method that returns a string replacing all the old characters to new characters.
+
+#### replaceFirst() method
+
+It is a method that replaces the first substring that fits the specified regular expression with the replacement string.
+
+#### replaceAll() method
+
+It is a method that replaces all the substring that fits the specified regular expression with the replacement string. The benefit of this method is that we can use regular expressions in it to replace any part of the string.
