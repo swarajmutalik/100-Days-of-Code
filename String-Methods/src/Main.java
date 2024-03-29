@@ -80,5 +80,16 @@ public class Main {
 //        replaceAll() method
         System.out.println(s9);
         System.out.println(s9.replaceAll("is(.)","was"));
-      }
+        System.out.println("--------------------------------------");
+
+//        indexOf() method
+        System.out.println(s6.indexOf('e'));
+        System.out.println("--------------------------------------");
+
+
+//        lastIndexOf() method
+        System.out.println(s6.lastIndexOf('l'));
+        System.out.println("--------------------------------------");
+
+    }
 }

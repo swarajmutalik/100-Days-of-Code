@@ -53,3 +53,12 @@ It is a method that replaces the first substring that fits the specified regular
 #### replaceAll() method
 
 It is a method that replaces all the substring that fits the specified regular expression with the replacement string. The benefit of this method is that we can use regular expressions in it to replace any part of the string.
+
+#### indexOf() method 
+
+It is a method that returns the position of the first occurrence of specified characters in a string or return -1, if the character does not occur.
+
+#### lastIndexOf() method 
+
+It is a method returns the position of the last occurrence of the specified characters in a string or return -1, if the character does not exist.
+
