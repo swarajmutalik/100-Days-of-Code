@@ -62,3 +62,18 @@ It is a method that returns the position of the first occurrence of specified ch
 
 It is a method returns the position of the last occurrence of the specified characters in a string or return -1, if the character does not exist.
 
+#### charAt() method
+
+It is a method that returns the character at the specified index. The index value should lie between 0 and length() - 1.
+
+#### contains() method 
+
+It is a method that searches the sequence of characters in the given string. It returns true if sequence of the char values are found in the string otherwise it returns false.
+
+#### startswith() method 
+
+It is a method that tests if a string starts with a specified prefix beginning from 1st index. If yes then it returns true else it returns false.
+
+#### endswith() method 
+
+It is a method that checks whether the string ends with a specified suffix. It yes, then the method will return true otherwise it will return false.

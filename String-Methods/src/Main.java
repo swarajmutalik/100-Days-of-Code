@@ -91,5 +91,21 @@ public class Main {
         System.out.println(s6.lastIndexOf('l'));
         System.out.println("--------------------------------------");
 
+//        charAt() method
+        System.out.println(s6.charAt(3));
+        System.out.println("--------------------------------------");
+
+//      contains() method
+        System.out.println(s6.contains("he"));
+        System.out.println("--------------------------------------");
+
+//        startswith() method
+        System.out.println(s6.startsWith("y"));
+        System.out.println("--------------------------------------");
+
+//        endswith() method
+        System.out.println(s6.endsWith("t"));
+        System.out.println("--------------------------------------");
+
     }
 }
