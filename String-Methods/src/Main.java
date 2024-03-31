@@ -107,5 +107,16 @@ public class Main {
         System.out.println(s6.endsWith("t"));
         System.out.println("--------------------------------------");
 
+//        toUpperCase() method
+        System.out.println(s6.toUpperCase());
+        System.out.println("--------------------------------------");
+
+
+//        toLowerCase() method
+        String s10 = "SWARAJ";
+        System.out.println(s10.toLowerCase());
+        System.out.println("--------------------------------------");
+
+
     }
 }

@@ -77,3 +77,15 @@ It is a method that tests if a string starts with a specified prefix beginning f
 #### endswith() method 
 
 It is a method that checks whether the string ends with a specified suffix. It yes, then the method will return true otherwise it will return false.
+
+#### toUpperCase() method 
+
+It is a method that converts all the characters of the string into uppercase letters.
+
+#### toLowerCase() method
+
+It is a method that converts all the characters of the string into lowercase letters.
+
+#### valueOf() method 
+
+It is a method that converts different types of values into string.
