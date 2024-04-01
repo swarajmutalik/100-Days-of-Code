@@ -89,3 +89,7 @@ It is a method that converts all the characters of the string into lowercase let
 #### valueOf() method 
 
 It is a method that converts different types of values into string.
+
+#### toCharArray() method 
+
+It is a method that converts the given string into a sequence of characters. The returned array length is equal to the length of the string.

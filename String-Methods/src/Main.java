@@ -23,7 +23,7 @@ public class Main {
 //       .length() method
         System.out.println(s1.length());
         int i = s1.length();
-        if(i == 0){
+        if (i == 0) {
             System.out.println("String is empty");
         }
         System.out.println("--------------------------------------");
@@ -31,7 +31,7 @@ public class Main {
 //        .isEmpty() method
         System.out.println(s1.isEmpty());
 
-        if(s4.isEmpty() == true){
+        if (s4.isEmpty() == true) {
             System.out.println("String is empty");
         }
         System.out.println("--------------------------------------");
@@ -55,31 +55,31 @@ public class Main {
         System.out.println("--------------------------------------");
 
 //        .join() method
-        System.out.println(String.join(",",s1,s8));
+        System.out.println(String.join(",", s1, s8));
         System.out.println("--------------------------------------");
 
 //        .subSequence() method
-        System.out.println(s9.subSequence(4,9));
+        System.out.println(s9.subSequence(4, 9));
         System.out.println("--------------------------------------");
 
 //        .subString() method
         System.out.println(s9.substring(3));
-        System.out.println(s9.substring(3,12));
+        System.out.println(s9.substring(3, 12));
         System.out.println("--------------------------------------");
 
 //        .replace() method
         System.out.println(s9);
-        System.out.println(s9.replace("is","was"));
+        System.out.println(s9.replace("is", "was"));
         System.out.println("--------------------------------------");
 
 //        replaceFirst() method
         System.out.println(s9);
-        System.out.println(s9.replaceFirst("is","was"));
+        System.out.println(s9.replaceFirst("is", "was"));
         System.out.println("--------------------------------------");
 
 //        replaceAll() method
         System.out.println(s9);
-        System.out.println(s9.replaceAll("is(.)","was"));
+        System.out.println(s9.replaceAll("is(.)", "was"));
         System.out.println("--------------------------------------");
 
 //        indexOf() method
@@ -117,6 +117,20 @@ public class Main {
         System.out.println(s10.toLowerCase());
         System.out.println("--------------------------------------");
 
+//        valueOf() method
+        int a = 10;
+        int b = 20;
+        System.out.println(a + b);
+        System.out.println("--------------------------------------");
+        String s11 = String.valueOf(a);
+        String s12 = String.valueOf(b);
+        System.out.println(s11 + s12);
+        System.out.println("--------------------------------------");
+
+
+//        toCharArray() method
+        char[] c = s11.toCharArray();
+        System.out.println(c);
 
     }
 }
